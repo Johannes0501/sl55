@@ -1,0 +1,8 @@
+name: sl55
+subdomain: sl55
+type: docker
+port: 80
+description: "Mercedes SL 55 AMG Tribute Website"
+auto_ssl: true
+created_at: 2026-01-06T17:33:44.728Z
+created_by: theArchitect
